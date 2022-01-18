@@ -13,3 +13,12 @@
   <li>The information section will also have a quote box with a different background color and italic text</li>
   <li>There will also be a footer added to the bottom of the page</li>
 </ul>
+<h1>The second commit was a little more challenging than expected</h1>
+<h2>Difficulties: </h2>
+<ul>
+  <li>Trying to position the intro image to the right of the screen</li>
+  <li>Making the h1 of the intro lowered on the page and having the p underneath it</li>
+</ul>
+<h2>What I have learned</h2>
+<p>This project has taught me a lot about using flexbox and the grid as well. The styling is always difficult
+  but this has taught me to try out different methods when the style is not living up to expectation.</p>
